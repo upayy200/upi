@@ -39,3 +39,5 @@ $query = mysqli_query($conn, "SELECT * FROM anggota ORDER BY id ASC");
 
     ?>
 </table>
+
+<!-- UPI GANTENG -->
